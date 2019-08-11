@@ -6,7 +6,7 @@
 	],
 	"settings": {
 		"terminal.integrated.env.linux": {
-			"PATH": "/home/david/.platformio/penv/bin:/home/david/.platformio/penv:/home/david/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin",
+			"PATH": "/home/david/.platformio/penv/bin:/home/david/.platformio/penv:/home/david/.nvm/versions/node/v6.10.1/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/opt/cuda/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/opt/cuda/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl",
 			"PLATFORMIO_CALLER": "vscode"
 		}
 	}
